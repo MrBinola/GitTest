@@ -1,7 +1,1 @@
-console.log(20, 22, 30)
-
-console.log(1 + 9)
-
-let a = 20 + 80
-
-console.log(a)
+let a = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
