@@ -10,3 +10,17 @@ console.log("Vitalli AND JESUS")
 
 const Pol = 20 + 480
 console.log(Pol)
+
+
+
+class Gift{
+    name = "MrBinola"
+    age = 16
+
+    get(){
+        console.log(this.name, this.age)
+    }
+}
+
+let PL = new Gift()
+PL.get()
