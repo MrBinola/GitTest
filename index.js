@@ -1,4 +1,5 @@
-console.log("Vitalli AND JESUS")
+console.log("Hello world")
 
-const Pol = 20 + 480
-console.log(Pol)
+console.log("Vitalii")
+
+console.log("My favourite number is 18")
